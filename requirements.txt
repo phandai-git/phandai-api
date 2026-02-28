@@ -4,3 +4,10 @@ alembic
 asyncpg
 psycopg2-binary
 sqlalchemy
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+mangum
+boto3
+pydantic-settings
